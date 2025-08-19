@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arun Sisarran</h1>
+<h1 align="center">👋 Hi, I'm Arun Sisarran</h1>
 <h3 align="center">Computer Science Student in New York City</h3>
 
 - 🧠 Background in Data Science and AI/ML
